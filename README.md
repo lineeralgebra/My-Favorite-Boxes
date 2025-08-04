@@ -1,5 +1,5 @@
 # My-Favorite-Boxes
-![1](images/ChatGPT Image Aug 4, 2025, 03_51_06 PM.png)
+![1](images/1111.png)
 
 
 | Machine Name / Platform       | Description                                      | Difficulty | Video Link                          | Blog Writeup |
